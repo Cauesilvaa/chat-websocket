@@ -1,0 +1,6 @@
+- npm init -y
+
+- yarn add ejs express socket.io
+
+* Para rodar
+node server.js
